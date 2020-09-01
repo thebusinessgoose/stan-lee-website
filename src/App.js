@@ -1,24 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Homepage from './pages/Homepage/Homepage';
+import Header from './/components/Header/Header.component'
+import Navigation from './components/Navigation/Navigation.component';
+import Footer from './components/Footer/Footer.component';
+import {Route} from 'react-router-dom';
+import OurServices from './pages/Our-Services/Our-Services';
+import Contact from './pages/Contact/Contact';
+import TaxChecklist from './pages/Tax-Checklist/Tax-Checklist';
+import RelatedLinks from './pages/Related-Links/Related-Links';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <Navigation />
+      <Route exact path='/' component={Homepage} />
+      <Route exact path='/our-services' component={OurServices} />
+      <Route exact path='/tax-checklist' component={TaxChecklist} />
+      <Route exact path='/related-links' component={RelatedLinks} />
+      <Route exact path='/contact' component={Contact} />
+      <Footer />
     </div>
   );
 }

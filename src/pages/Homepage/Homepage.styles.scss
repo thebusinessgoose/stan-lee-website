@@ -1,0 +1,26 @@
+
+    .homepage {
+        margin-top: -1.55rem;
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+
+        .image-container {
+            width: 100%;
+            max-width: 850px;
+            margin: 0 auto;
+
+
+            .homepage-image {
+                width: 100%;
+            }
+        }
+
+        .paragraph {
+            font-family: Verdana;
+            font-size: 1rem;
+            margin: 11px 0;
+            padding: 5px;
+        }
+
+    }

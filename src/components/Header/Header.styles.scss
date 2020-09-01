@@ -1,0 +1,40 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    font-family: Verdana;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    
+
+    .top-line {
+        width: 100vw;
+        height: .75rem;
+        background: linear-gradient(to bottom, rgb(128, 62, 1), rgb(196, 168, 14));
+        margin-bottom: 5px;
+    }
+
+    .heading1 {
+        font-family: 'Cardo';
+        font-weight: 200;
+        font-size: 2rem;
+        color: black;
+        margin-left: 3rem;
+    }
+
+    .heading2 {
+        width: 22.5rem;
+        font-size: 1rem;
+        color: grey;
+        margin-left: 5px;
+        font-weight: 500;
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+
+    }
+
+    .heading3 {
+        color: black;
+        font-size: 1.25rem;
+        margin-left: 5px;
+    }
+}

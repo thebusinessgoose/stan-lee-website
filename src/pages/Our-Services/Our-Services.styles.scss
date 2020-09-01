@@ -1,0 +1,40 @@
+
+
+    .our-services {
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        margin-top: -1.55rem;
+
+        .services-header {
+            width: 100%;
+            max-width: 850px;
+            margin: 0 auto;
+
+            .services-image-container {
+                width: 100%;
+
+                .services-image {
+                    width: 100%;
+                }
+            }
+        }
+
+        .service {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            margin: 20px 0;
+
+            .service-title {
+                font-size: 1.25rem;
+                font-weight: bolder;
+            }
+
+            .service-summary {
+                width: 95%;
+                margin: 0 auto;
+                margin-top: 10px;
+                font-size: 1rem;
+                font-weight: 200;
+            }
+        }
+    }
