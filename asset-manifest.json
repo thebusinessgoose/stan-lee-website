@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/thebusinessgoose/stan-lee-website.git/static/css/main.15c80cd7.chunk.css",
+    "main.js": "/thebusinessgoose/stan-lee-website.git/static/js/main.743b7910.chunk.js",
+    "main.js.map": "/thebusinessgoose/stan-lee-website.git/static/js/main.743b7910.chunk.js.map",
+    "runtime-main.js": "/thebusinessgoose/stan-lee-website.git/static/js/runtime-main.e1c6d776.js",
+    "runtime-main.js.map": "/thebusinessgoose/stan-lee-website.git/static/js/runtime-main.e1c6d776.js.map",
+    "static/js/2.b445c5ae.chunk.js": "/thebusinessgoose/stan-lee-website.git/static/js/2.b445c5ae.chunk.js",
+    "static/js/2.b445c5ae.chunk.js.map": "/thebusinessgoose/stan-lee-website.git/static/js/2.b445c5ae.chunk.js.map",
+    "index.html": "/thebusinessgoose/stan-lee-website.git/index.html",
+    "precache-manifest.6a52b34107dc10863edebebebe2b7f64.js": "/thebusinessgoose/stan-lee-website.git/precache-manifest.6a52b34107dc10863edebebebe2b7f64.js",
+    "service-worker.js": "/thebusinessgoose/stan-lee-website.git/service-worker.js",
+    "static/css/main.15c80cd7.chunk.css.map": "/thebusinessgoose/stan-lee-website.git/static/css/main.15c80cd7.chunk.css.map",
+    "static/js/2.b445c5ae.chunk.js.LICENSE.txt": "/thebusinessgoose/stan-lee-website.git/static/js/2.b445c5ae.chunk.js.LICENSE.txt",
+    "static/media/fax.8e8035bd.svg": "/thebusinessgoose/stan-lee-website.git/static/media/fax.8e8035bd.svg",
+    "static/media/homepage-image.jpg": "/thebusinessgoose/stan-lee-website.git/static/media/homepage-image.a11e8b65.jpg",
+    "static/media/mail.cfad9e4e.svg": "/thebusinessgoose/stan-lee-website.git/static/media/mail.cfad9e4e.svg",
+    "static/media/phone.30523e39.svg": "/thebusinessgoose/stan-lee-website.git/static/media/phone.30523e39.svg",
+    "static/media/services-image.jpg": "/thebusinessgoose/stan-lee-website.git/static/media/services-image.2f046273.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c6d776.js",
+    "static/js/2.b445c5ae.chunk.js",
+    "static/css/main.15c80cd7.chunk.css",
+    "static/js/main.743b7910.chunk.js"
+  ]
+}
