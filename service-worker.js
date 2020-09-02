@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stan-lee-website/precache-manifest.c0780b5ede5ee62cd54f2978f39c5551.js"
+  "/stan-lee-website/precache-manifest.189d3f64a0f4552d5b5864a6654cf9d7.js"
 );
 
 self.addEventListener('message', (event) => {
