@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.91940ecf.chunk.css",
-    "main.js": "./static/js/main.c6957187.chunk.js",
-    "main.js.map": "./static/js/main.c6957187.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.5d318d80.js",
-    "runtime-main.js.map": "./static/js/runtime-main.5d318d80.js.map",
-    "static/js/2.efb0fd3b.chunk.js": "./static/js/2.efb0fd3b.chunk.js",
-    "static/js/2.efb0fd3b.chunk.js.map": "./static/js/2.efb0fd3b.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.58f748fd9c648d969f583c3f809864d2.js": "./precache-manifest.58f748fd9c648d969f583c3f809864d2.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.91940ecf.chunk.css.map": "./static/css/main.91940ecf.chunk.css.map",
-    "static/js/2.efb0fd3b.chunk.js.LICENSE.txt": "./static/js/2.efb0fd3b.chunk.js.LICENSE.txt",
-    "static/media/fax.8e8035bd.svg": "./static/media/fax.8e8035bd.svg",
-    "static/media/homepage-image.jpg": "./static/media/homepage-image.a11e8b65.jpg",
-    "static/media/mail.cfad9e4e.svg": "./static/media/mail.cfad9e4e.svg",
-    "static/media/phone.30523e39.svg": "./static/media/phone.30523e39.svg",
-    "static/media/services-image.jpg": "./static/media/services-image.2f046273.jpg"
+    "main.css": "/stan-lee-website/relativepath/static/css/main.91940ecf.chunk.css",
+    "main.js": "/stan-lee-website/relativepath/static/js/main.e1c4fc35.chunk.js",
+    "main.js.map": "/stan-lee-website/relativepath/static/js/main.e1c4fc35.chunk.js.map",
+    "runtime-main.js": "/stan-lee-website/relativepath/static/js/runtime-main.b048b9e9.js",
+    "runtime-main.js.map": "/stan-lee-website/relativepath/static/js/runtime-main.b048b9e9.js.map",
+    "static/js/2.efb0fd3b.chunk.js": "/stan-lee-website/relativepath/static/js/2.efb0fd3b.chunk.js",
+    "static/js/2.efb0fd3b.chunk.js.map": "/stan-lee-website/relativepath/static/js/2.efb0fd3b.chunk.js.map",
+    "index.html": "/stan-lee-website/relativepath/index.html",
+    "precache-manifest.9354f1c16851419085bc2ab5c51a9809.js": "/stan-lee-website/relativepath/precache-manifest.9354f1c16851419085bc2ab5c51a9809.js",
+    "service-worker.js": "/stan-lee-website/relativepath/service-worker.js",
+    "static/css/main.91940ecf.chunk.css.map": "/stan-lee-website/relativepath/static/css/main.91940ecf.chunk.css.map",
+    "static/js/2.efb0fd3b.chunk.js.LICENSE.txt": "/stan-lee-website/relativepath/static/js/2.efb0fd3b.chunk.js.LICENSE.txt",
+    "static/media/fax.8e8035bd.svg": "/stan-lee-website/relativepath/static/media/fax.8e8035bd.svg",
+    "static/media/homepage-image.jpg": "/stan-lee-website/relativepath/static/media/homepage-image.a11e8b65.jpg",
+    "static/media/mail.cfad9e4e.svg": "/stan-lee-website/relativepath/static/media/mail.cfad9e4e.svg",
+    "static/media/phone.30523e39.svg": "/stan-lee-website/relativepath/static/media/phone.30523e39.svg",
+    "static/media/services-image.jpg": "/stan-lee-website/relativepath/static/media/services-image.2f046273.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d318d80.js",
+    "static/js/runtime-main.b048b9e9.js",
     "static/js/2.efb0fd3b.chunk.js",
     "static/css/main.91940ecf.chunk.css",
-    "static/js/main.c6957187.chunk.js"
+    "static/js/main.e1c4fc35.chunk.js"
   ]
 }
