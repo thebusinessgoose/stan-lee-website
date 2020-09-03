@@ -33,14 +33,21 @@
                 margin-bottom: 5px;
             }
 
-            .contact-info {
+            .form-of-contact-info {
                 display: flex;
                 align-items: center;
-                margin: 10px 0;
+                line-height: 27px;
 
                 .detail {
-                    margin-left: 5px;
+                    margin-left: 10px;
                 }
+            }
+
+            .address {
+                display: flex;
+                flex-direction: column;
+                margin: 10px 0;
+                line-height: 22px;
             }
         }
     }

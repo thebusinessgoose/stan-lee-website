@@ -9,7 +9,7 @@ const Homepage = () => (
                 <img className='homepage-image' src={homepageImage} alt=''></img>
             </div>
             <p className='paragraph'>
-                Stan W. Lee Chartered Professional Accountant was established since 1992. 
+                Stan W. Lee Inc, Chartered Professional Accountants was established since 1992. 
                 We provide a wide range of professional, consulting and business advisory 
                 services to clients in diverse industries.
             </p>

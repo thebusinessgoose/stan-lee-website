@@ -16,15 +16,15 @@ const Contact = () => (
                     Office Hours
                 </h1>
                 <div className='contact-info'>
-                    <p>8:30am - 5:00pm</p> 
-                    <p>Pacific P.S.T.</p>
+                    <p>8:30am - 5:00pm: Monday - Friday</p> 
+                    {/* <p>Monday - Friday</p> */}
                 </div>
             </div>
             <div className='contact-detail'>
                 <h1 className='form-of-contact'>
                     Address
                 </h1>
-                <div className='contact-info'>
+                <div className='address'>
                     <p>500-1541 West Broadway</p> 
                     <p>Vancouver, BC</p>
                     <p>V6J 1W7</p>
@@ -35,15 +35,15 @@ const Contact = () => (
                 <h1 className='form-of-contact'>
                     Contact
                 </h1>
-                    <div className='contact-info'>
+                    <div className='form-of-contact-info'>
                         <PhoneIcon />
                         <p className='detail'>Tel: 604-291-6016</p>
                     </div>
-                    <div className='contact-info'>
+                    <div className='form-of-contact-info'>
                         <FaxIcon />
                         <p className='detail'>Fax: 604-291-2018</p>
                     </div>
-                    <div className='contact-info'>
+                    <div className='form-of-contact-info'>
                         <MailIcon />
                         <p className='detail'>Email: stan@stanwleeca.com</p>
                     </div>
