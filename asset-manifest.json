@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/stan-lee-website/static/css/main.91940ecf.chunk.css",
-    "main.js": "/stan-lee-website/static/js/main.e1c4fc35.chunk.js",
-    "main.js.map": "/stan-lee-website/static/js/main.e1c4fc35.chunk.js.map",
-    "runtime-main.js": "/stan-lee-website/static/js/runtime-main.a6e206cd.js",
-    "runtime-main.js.map": "/stan-lee-website/static/js/runtime-main.a6e206cd.js.map",
-    "static/js/2.efb0fd3b.chunk.js": "/stan-lee-website/static/js/2.efb0fd3b.chunk.js",
-    "static/js/2.efb0fd3b.chunk.js.map": "/stan-lee-website/static/js/2.efb0fd3b.chunk.js.map",
-    "index.html": "/stan-lee-website/index.html",
-    "precache-manifest.ff03508665ebace9e38c2f7ab30261f3.js": "/stan-lee-website/precache-manifest.ff03508665ebace9e38c2f7ab30261f3.js",
-    "service-worker.js": "/stan-lee-website/service-worker.js",
-    "static/css/main.91940ecf.chunk.css.map": "/stan-lee-website/static/css/main.91940ecf.chunk.css.map",
-    "static/js/2.efb0fd3b.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.efb0fd3b.chunk.js.LICENSE.txt",
-    "static/media/fax.8e8035bd.svg": "/stan-lee-website/static/media/fax.8e8035bd.svg",
-    "static/media/homepage-image.jpg": "/stan-lee-website/static/media/homepage-image.a11e8b65.jpg",
-    "static/media/mail.cfad9e4e.svg": "/stan-lee-website/static/media/mail.cfad9e4e.svg",
-    "static/media/phone.30523e39.svg": "/stan-lee-website/static/media/phone.30523e39.svg",
-    "static/media/services-image.jpg": "/stan-lee-website/static/media/services-image.2f046273.jpg"
+    "main.css": "./static/css/main.91940ecf.chunk.css",
+    "main.js": "./static/js/main.c6957187.chunk.js",
+    "main.js.map": "./static/js/main.c6957187.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5d318d80.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5d318d80.js.map",
+    "static/js/2.efb0fd3b.chunk.js": "./static/js/2.efb0fd3b.chunk.js",
+    "static/js/2.efb0fd3b.chunk.js.map": "./static/js/2.efb0fd3b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.58f748fd9c648d969f583c3f809864d2.js": "./precache-manifest.58f748fd9c648d969f583c3f809864d2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.91940ecf.chunk.css.map": "./static/css/main.91940ecf.chunk.css.map",
+    "static/js/2.efb0fd3b.chunk.js.LICENSE.txt": "./static/js/2.efb0fd3b.chunk.js.LICENSE.txt",
+    "static/media/fax.8e8035bd.svg": "./static/media/fax.8e8035bd.svg",
+    "static/media/homepage-image.jpg": "./static/media/homepage-image.a11e8b65.jpg",
+    "static/media/mail.cfad9e4e.svg": "./static/media/mail.cfad9e4e.svg",
+    "static/media/phone.30523e39.svg": "./static/media/phone.30523e39.svg",
+    "static/media/services-image.jpg": "./static/media/services-image.2f046273.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6e206cd.js",
+    "static/js/runtime-main.5d318d80.js",
     "static/js/2.efb0fd3b.chunk.js",
     "static/css/main.91940ecf.chunk.css",
-    "static/js/main.e1c4fc35.chunk.js"
+    "static/js/main.c6957187.chunk.js"
   ]
 }
