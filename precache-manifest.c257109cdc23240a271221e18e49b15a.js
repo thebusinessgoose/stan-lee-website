@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5df60121b7dd789e7873da2550531444",
+    "revision": "f65ce3db386a6211c77fd6f0fea1cced",
     "url": "/stan-lee-website/index.html"
   },
   {
-    "revision": "068e823c94d0a888d392",
-    "url": "/stan-lee-website/static/css/main.82b02e94.chunk.css"
+    "revision": "c295e39b14b98817d900",
+    "url": "/stan-lee-website/static/css/main.c478f1f9.chunk.css"
   },
   {
     "revision": "5e5b73da641e6d2a6f3e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stan-lee-website/static/js/2.f26abb32.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "068e823c94d0a888d392",
+    "revision": "c295e39b14b98817d900",
     "url": "/stan-lee-website/static/js/main.407b9c6a.chunk.js"
   },
   {
