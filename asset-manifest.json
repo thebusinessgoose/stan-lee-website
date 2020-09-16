@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/stan-lee-website/static/css/main.4cf4c5ca.chunk.css",
-    "main.js": "/stan-lee-website/static/js/main.407b9c6a.chunk.js",
-    "main.js.map": "/stan-lee-website/static/js/main.407b9c6a.chunk.js.map",
+    "main.js": "/stan-lee-website/static/js/main.75c10884.chunk.js",
+    "main.js.map": "/stan-lee-website/static/js/main.75c10884.chunk.js.map",
     "runtime-main.js": "/stan-lee-website/static/js/runtime-main.a6e206cd.js",
     "runtime-main.js.map": "/stan-lee-website/static/js/runtime-main.a6e206cd.js.map",
-    "static/js/2.f26abb32.chunk.js": "/stan-lee-website/static/js/2.f26abb32.chunk.js",
-    "static/js/2.f26abb32.chunk.js.map": "/stan-lee-website/static/js/2.f26abb32.chunk.js.map",
+    "static/js/2.28fade08.chunk.js": "/stan-lee-website/static/js/2.28fade08.chunk.js",
+    "static/js/2.28fade08.chunk.js.map": "/stan-lee-website/static/js/2.28fade08.chunk.js.map",
     "index.html": "/stan-lee-website/index.html",
-    "precache-manifest.a747cf161e4a5213f88f9d1ea22b499e.js": "/stan-lee-website/precache-manifest.a747cf161e4a5213f88f9d1ea22b499e.js",
+    "precache-manifest.8f6aa10d6d2587066cd18df06c46e773.js": "/stan-lee-website/precache-manifest.8f6aa10d6d2587066cd18df06c46e773.js",
     "service-worker.js": "/stan-lee-website/service-worker.js",
     "static/css/main.4cf4c5ca.chunk.css.map": "/stan-lee-website/static/css/main.4cf4c5ca.chunk.css.map",
-    "static/js/2.f26abb32.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.f26abb32.chunk.js.LICENSE.txt",
+    "static/js/2.28fade08.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.28fade08.chunk.js.LICENSE.txt",
     "static/media/fax.8e8035bd.svg": "/stan-lee-website/static/media/fax.8e8035bd.svg",
     "static/media/mail.cfad9e4e.svg": "/stan-lee-website/static/media/mail.cfad9e4e.svg",
     "static/media/phone.30523e39.svg": "/stan-lee-website/static/media/phone.30523e39.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6e206cd.js",
-    "static/js/2.f26abb32.chunk.js",
+    "static/js/2.28fade08.chunk.js",
     "static/css/main.4cf4c5ca.chunk.css",
-    "static/js/main.407b9c6a.chunk.js"
+    "static/js/main.75c10884.chunk.js"
   ]
 }
