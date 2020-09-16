@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/stan-lee-website/static/css/main.dcfb5b22.chunk.css",
-    "main.js": "/stan-lee-website/static/js/main.3bc96733.chunk.js",
-    "main.js.map": "/stan-lee-website/static/js/main.3bc96733.chunk.js.map",
+    "main.js": "/stan-lee-website/static/js/main.d3d6bd2c.chunk.js",
+    "main.js.map": "/stan-lee-website/static/js/main.d3d6bd2c.chunk.js.map",
     "runtime-main.js": "/stan-lee-website/static/js/runtime-main.a6e206cd.js",
     "runtime-main.js.map": "/stan-lee-website/static/js/runtime-main.a6e206cd.js.map",
-    "static/js/2.a78afc4f.chunk.js": "/stan-lee-website/static/js/2.a78afc4f.chunk.js",
-    "static/js/2.a78afc4f.chunk.js.map": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.map",
+    "static/js/2.3e2c1ee1.chunk.js": "/stan-lee-website/static/js/2.3e2c1ee1.chunk.js",
+    "static/js/2.3e2c1ee1.chunk.js.map": "/stan-lee-website/static/js/2.3e2c1ee1.chunk.js.map",
     "index.html": "/stan-lee-website/index.html",
-    "precache-manifest.802e2f4527a79b02797ff17089ccfbee.js": "/stan-lee-website/precache-manifest.802e2f4527a79b02797ff17089ccfbee.js",
+    "precache-manifest.ecc3c7656c00ff2399158af244cb64fc.js": "/stan-lee-website/precache-manifest.ecc3c7656c00ff2399158af244cb64fc.js",
     "service-worker.js": "/stan-lee-website/service-worker.js",
     "static/css/main.dcfb5b22.chunk.css.map": "/stan-lee-website/static/css/main.dcfb5b22.chunk.css.map",
-    "static/js/2.a78afc4f.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.LICENSE.txt",
+    "static/js/2.3e2c1ee1.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.3e2c1ee1.chunk.js.LICENSE.txt",
     "static/media/fax.8e8035bd.svg": "/stan-lee-website/static/media/fax.8e8035bd.svg",
     "static/media/mail.cfad9e4e.svg": "/stan-lee-website/static/media/mail.cfad9e4e.svg",
     "static/media/phone.30523e39.svg": "/stan-lee-website/static/media/phone.30523e39.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6e206cd.js",
-    "static/js/2.a78afc4f.chunk.js",
+    "static/js/2.3e2c1ee1.chunk.js",
     "static/css/main.dcfb5b22.chunk.css",
-    "static/js/main.3bc96733.chunk.js"
+    "static/js/main.d3d6bd2c.chunk.js"
   ]
 }
