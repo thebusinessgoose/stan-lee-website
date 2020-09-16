@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stan-lee-website/static/css/main.4cf4c5ca.chunk.css",
+    "main.css": "/stan-lee-website/static/css/main.51934cd4.chunk.css",
     "main.js": "/stan-lee-website/static/js/main.3bc96733.chunk.js",
     "main.js.map": "/stan-lee-website/static/js/main.3bc96733.chunk.js.map",
     "runtime-main.js": "/stan-lee-website/static/js/runtime-main.a6e206cd.js",
@@ -8,9 +8,9 @@
     "static/js/2.a78afc4f.chunk.js": "/stan-lee-website/static/js/2.a78afc4f.chunk.js",
     "static/js/2.a78afc4f.chunk.js.map": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.map",
     "index.html": "/stan-lee-website/index.html",
-    "precache-manifest.d727fcd5add03f16716f17d5691cf966.js": "/stan-lee-website/precache-manifest.d727fcd5add03f16716f17d5691cf966.js",
+    "precache-manifest.4f277e5b0785924d2e39028be49ade60.js": "/stan-lee-website/precache-manifest.4f277e5b0785924d2e39028be49ade60.js",
     "service-worker.js": "/stan-lee-website/service-worker.js",
-    "static/css/main.4cf4c5ca.chunk.css.map": "/stan-lee-website/static/css/main.4cf4c5ca.chunk.css.map",
+    "static/css/main.51934cd4.chunk.css.map": "/stan-lee-website/static/css/main.51934cd4.chunk.css.map",
     "static/js/2.a78afc4f.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.LICENSE.txt",
     "static/media/fax.8e8035bd.svg": "/stan-lee-website/static/media/fax.8e8035bd.svg",
     "static/media/mail.cfad9e4e.svg": "/stan-lee-website/static/media/mail.cfad9e4e.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a6e206cd.js",
     "static/js/2.a78afc4f.chunk.js",
-    "static/css/main.4cf4c5ca.chunk.css",
+    "static/css/main.51934cd4.chunk.css",
     "static/js/main.3bc96733.chunk.js"
   ]
 }
