@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/stan-lee-website/static/css/main.b3e0dc73.chunk.css",
-    "main.js": "/stan-lee-website/static/js/main.38d2bb27.chunk.js",
-    "main.js.map": "/stan-lee-website/static/js/main.38d2bb27.chunk.js.map",
+    "main.css": "/stan-lee-website/static/css/main.be52dc51.chunk.css",
+    "main.js": "/stan-lee-website/static/js/main.3bc96733.chunk.js",
+    "main.js.map": "/stan-lee-website/static/js/main.3bc96733.chunk.js.map",
     "runtime-main.js": "/stan-lee-website/static/js/runtime-main.a6e206cd.js",
     "runtime-main.js.map": "/stan-lee-website/static/js/runtime-main.a6e206cd.js.map",
-    "static/js/2.c0e833c5.chunk.js": "/stan-lee-website/static/js/2.c0e833c5.chunk.js",
-    "static/js/2.c0e833c5.chunk.js.map": "/stan-lee-website/static/js/2.c0e833c5.chunk.js.map",
+    "static/js/2.a78afc4f.chunk.js": "/stan-lee-website/static/js/2.a78afc4f.chunk.js",
+    "static/js/2.a78afc4f.chunk.js.map": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.map",
     "index.html": "/stan-lee-website/index.html",
-    "precache-manifest.9d540131cfd9741e811705e30f8c32ba.js": "/stan-lee-website/precache-manifest.9d540131cfd9741e811705e30f8c32ba.js",
+    "precache-manifest.cb50669c8c49d595896661aa5fc8c14e.js": "/stan-lee-website/precache-manifest.cb50669c8c49d595896661aa5fc8c14e.js",
     "service-worker.js": "/stan-lee-website/service-worker.js",
-    "static/css/main.b3e0dc73.chunk.css.map": "/stan-lee-website/static/css/main.b3e0dc73.chunk.css.map",
-    "static/js/2.c0e833c5.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.c0e833c5.chunk.js.LICENSE.txt",
+    "static/css/main.be52dc51.chunk.css.map": "/stan-lee-website/static/css/main.be52dc51.chunk.css.map",
+    "static/js/2.a78afc4f.chunk.js.LICENSE.txt": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.LICENSE.txt",
     "static/media/fax.8e8035bd.svg": "/stan-lee-website/static/media/fax.8e8035bd.svg",
     "static/media/mail.cfad9e4e.svg": "/stan-lee-website/static/media/mail.cfad9e4e.svg",
     "static/media/phone.30523e39.svg": "/stan-lee-website/static/media/phone.30523e39.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6e206cd.js",
-    "static/js/2.c0e833c5.chunk.js",
-    "static/css/main.b3e0dc73.chunk.css",
-    "static/js/main.38d2bb27.chunk.js"
+    "static/js/2.a78afc4f.chunk.js",
+    "static/css/main.be52dc51.chunk.css",
+    "static/js/main.3bc96733.chunk.js"
   ]
 }

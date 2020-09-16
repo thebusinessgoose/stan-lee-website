@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0073cc5b3ac3aca7bea0d982c77f853c",
+    "revision": "604e12f98c97c5a978575e49a7f5f464",
     "url": "/stan-lee-website/index.html"
   },
   {
-    "revision": "be5f2fd3c4ef32a053fa",
-    "url": "/stan-lee-website/static/css/main.b3e0dc73.chunk.css"
+    "revision": "920968f66f3781153a87",
+    "url": "/stan-lee-website/static/css/main.be52dc51.chunk.css"
   },
   {
-    "revision": "e092f3bcfc8f537612c2",
-    "url": "/stan-lee-website/static/js/2.c0e833c5.chunk.js"
+    "revision": "03d59007498db643f295",
+    "url": "/stan-lee-website/static/js/2.a78afc4f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/stan-lee-website/static/js/2.c0e833c5.chunk.js.LICENSE.txt"
+    "url": "/stan-lee-website/static/js/2.a78afc4f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be5f2fd3c4ef32a053fa",
-    "url": "/stan-lee-website/static/js/main.38d2bb27.chunk.js"
+    "revision": "920968f66f3781153a87",
+    "url": "/stan-lee-website/static/js/main.3bc96733.chunk.js"
   },
   {
     "revision": "46e13bfc33c9624358fd",
