@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1705283c88ce882b8ccdecec8758771a",
+    "revision": "08f3bce3346efc292f638f7e617407ea",
     "url": "/stan-lee-website/index.html"
   },
   {
