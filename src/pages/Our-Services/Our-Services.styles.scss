@@ -5,6 +5,7 @@
         display: flex;
         flex-direction: column;
         margin-top: -1.55rem;
+        text-align: justify;
 
         .services-header {
             width: 100%;
@@ -22,7 +23,7 @@
 
         .services {
             width: 75%;
-            margin-left: 15%;
+            margin: 0 auto;
             max-width: 950px;
 
             .service-summary-subheading {
@@ -44,6 +45,10 @@
                 .service-title {
                     font-size: 1.25rem;
                     font-weight: bolder;
+                }
+
+                .service-title.main {
+                    font-size: 1.75rem;
                 }
 
                 .service-summary {

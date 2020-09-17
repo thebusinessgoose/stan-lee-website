@@ -1,15 +1,20 @@
 import React from 'react';
 import './Homepage.styles.scss'
-import homepageImage from '../../assets/homepage-image.jpg';
+import boardroomImage from '../../assets/stan-lee-boardroom.jpg';
 import Navigation from '../../components/Navigation/Navigation.component';
+import Header from '../../components/Header/Header.component';
+import Footer from '../../components/Footer/Footer.component';
 
 const Homepage = () => (
+    <>  
+        <Header />
+        <Navigation />
         <div className='homepage'>
             <div className='image-container'>
-                <img className='homepage-image' src={homepageImage} alt=''></img>
+                <img className='homepage-image' src={boardroomImage} alt=''></img>
             </div>
             <p className='paragraph'>
-                Stan W. Lee Inc, Chartered Professional Accountants was established since 1992. 
+                Stan W. Lee Inc, Chartered Professional Accountants, was established in 1992. 
                 We provide a wide range of professional, consulting and business advisory 
                 services to clients in diverse industries.
             </p>
@@ -32,7 +37,9 @@ const Homepage = () => (
                 national organizations. He has written numerous business articles for the Vancouver Sun.
             </p>
         </div>
-
+        <Footer />
+    </>
 )
 
 export default Homepage;
+

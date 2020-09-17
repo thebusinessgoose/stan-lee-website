@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom';
 
 const Navigation = () => (
     <div className='navigation'>
-        <Link className='page-link' to='/'>
+        <Link className='page-link' to='/home'>
             Home
         </Link>
         <Link className='page-link' to='/our-services'>

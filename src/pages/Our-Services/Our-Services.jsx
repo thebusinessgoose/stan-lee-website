@@ -1,9 +1,14 @@
 import React from 'react';
 import './Our-Services.styles.scss';
+import Header from '../../components/Header/Header.component';
 import Navigation from '../../components/Navigation/Navigation.component';
+import Footer from '../../components/Footer/Footer.component';
 import servicesImage from '../../assets/services-image.jpg';
 
 const OurServices = () => (
+    <>
+        <Header />
+        <Navigation />
         <div className='services-page'>
             <div className='services-header'>
                 <div className='services-image-container'>
@@ -12,7 +17,7 @@ const OurServices = () => (
             </div>
             <div className='services'>
                 <div className='service'>
-                    <h1 className='service-title'>
+                    <h1 className='service-title main'>
                         Our Services
                     </h1>
                     <p className='service-summary'>
@@ -114,6 +119,8 @@ const OurServices = () => (
                 </div>
             </div>
         </div>
+        <Footer />
+    </>
 )
 
 export default OurServices;
